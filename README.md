@@ -10,7 +10,7 @@
 
 </p>
 
-Para um maior entendimento do Design Pattern [clique aqui](https://refactoring.guru/pt-br/design-patterns/strategy).
+Para um maior entendimento do Design Pattern [clique aqui](https://refactoring.guru/pt-br/design-patterns/prototype).
 
 ## :rocket: Tecnologias utilizaas
 
