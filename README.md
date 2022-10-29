@@ -1,5 +1,5 @@
 <h3 align="center">
-  Exemplo aplicado do Design Pattern Strategy
+  Exemplo aplicado do Design Pattern Prototype
 </h3>
 
 <p align="center">
